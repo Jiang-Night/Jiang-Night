@@ -27,18 +27,8 @@ fn jiang_night() {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 ### 📊 GitHub Stats
-
-[![JiangNight's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jiang-Night&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Jiang-Night)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiang-Night&layout=compact&theme=radical&langs_count=6&hide=html,css)](https://github.com/Jiang-Night)
-
-## Stats
----
 ![](https://github-readme-stats.vercel.app/api?username=Jiang-Night&show_icons=true&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiang-Night&show_icons=true&theme=radical&layout=compact)
 ---
-
 ### ⚡ Recent Activity
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Jiang-Night&theme=radical)](https://git.io/streak-stats)
-```
