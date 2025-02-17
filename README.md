@@ -31,4 +31,4 @@ fn jiang_night() {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiang-Night&show_icons=true&theme=radical&layout=compact)
 ---
 ### ⚡ Recent Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Jiang-Night&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Jiang-Night&theme=radical)
