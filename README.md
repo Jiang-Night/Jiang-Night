@@ -1,4 +1,4 @@
-## Hi there 👋 I'm JiangNight
+## Hi there 👋 ,I'm JiangNight
 
 ### 🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer
 
@@ -31,4 +31,4 @@ fn jiang_night() {
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiang-Night&show_icons=true&theme=radical&layout=compact)
 ---
 ### ⚡ Recent Activity
-![GitHub Streak](https://streak-stats.demolab.com/?user=Jiang-Night&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JiangNight&theme=dark)](https://git.io/streak-stats)
